@@ -16,3 +16,9 @@ body {
 .container h1 {
     font-size: 20px;
 }
+#cabecera{
+    background-color: #88f;
+    color: aliceblue;
+    margin:0;
+    padding: .5em ;
+}
