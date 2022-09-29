@@ -1,0 +1,11 @@
+comandos: 
+ git log <nombre del archivo>: sirve para ver toda la historia de commits en el archivo, quien lo realizo, en que fecha y los cambios que se hicieron en el archivo
+ 
+ cat: sirve para ver el contenido de un archivo de texto plano
+
+ touch: sirve para crear un archivo
+
+ git config --list: muestra las configuraciones por defecto
+
+ git diff<codCommit1,codCommit2>: compara los cambios de distintos commits 
+
