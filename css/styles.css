@@ -36,3 +36,12 @@ img{
   margin: 0;
   padding: 0.5em;
 }
+
+footer{
+  background-color: bisque;
+  color: #202020;
+  font-weight: bold;
+  text-align: center;
+  font-size: 24px;
+  border-radius: 0 0 12px 12px;
+}
