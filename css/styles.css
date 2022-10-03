@@ -7,11 +7,11 @@ body {
   padding: 0;
 }
 .container {
-  width: 70%;
-
+  width: 50%;
   text-align: left;
   border: 1px solid #ddd;
-  margin: 0 auto;
+  margin: 50px auto ;
+  border-radius: 12px;
 }
 #post {
   padding: 1em;
@@ -19,11 +19,18 @@ body {
 .container h1 {
   font-size: 20px;
 }
+img{
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
 #cabecera {
+  display: flex;
+  border-radius: 12px 12px 0 0 ;
   font-weight: bold;
   text-align: center;
   font-size: 24px;
-  background-color: #88f;
+  background-color: rgb(45, 115, 253);
   color: aliceblue;
   box-sizing: border-box;
   margin: 0;
